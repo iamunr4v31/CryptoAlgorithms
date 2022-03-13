@@ -10,7 +10,7 @@ setup(
     long_description='',
     author='Ashwin',
     packages=find_packages(),
-    install_requires = ['hashlib', 'pycrypto'],
+    install_requires = ['pycrypto'],
     classifiers= [
         "Development Status :: 3 - Alpha",
         "Intended Audience :: Education",
